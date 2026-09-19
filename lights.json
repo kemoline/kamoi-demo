@@ -1,0 +1,5 @@
+[
+ {"id":"akari","name":"01  /  灯 AKARI","subtitle":"和紙を透かす、やわらかな夕暮れ。","model":"models/akari.glb","position":[0,0.45,-1.5]},
+ {"id":"komorebi","name":"02  /  木漏れ KOMOREBI","subtitle":"木の隙間に、光のリズム。","model":"models/komorebi.glb","position":[0,0.45,-1.5]},
+ {"id":"tsuki","name":"03  /  月 TSUKI","subtitle":"真鍮の輪に、静かな月明かり。","model":"models/tsuki.glb","position":[0,0.45,-1.5]}
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "orb",
+    "name": "Orb",
+    "subtitle": "まるい、余白。",
+    "color": "#ba6243",
+    "model": "models/orb.glb",
+    "material": "tint",
+    "fit": 0.95,
+    "rotation": [
+      9,
+      17,
+      0
+    ]
+  },
+  {
+    "id": "frame",
+    "name": "Frame",
+    "subtitle": "空間を切り取る。",
+    "color": "#667969",
+    "model": "models/frame.glb",
+    "material": "tint",
+    "fit": 0.95,
+    "rotation": [
+      9,
+      17,
+      0
+    ]
+  },
+  {
+    "id": "stone",
+    "name": "Stone",
+    "subtitle": "かたちの、手ざわり。",
+    "color": "#9f8865",
+    "model": "models/stone.glb",
+    "material": "tint",
+    "fit": 0.95,
+    "rotation": [
+      9,
+      17,
+      0
+    ]
+  }
+]
